@@ -1,6 +1,7 @@
-#Welcome to worlds ugliest ascii-art page.
-###Where ascii comes to 
+# worlds ugliest ascii art git page
 
-> this project has no license because no one would ever want to steal this.
 
+
+ * We do not have a license because no one would ever want to steal this.
+ 
  
